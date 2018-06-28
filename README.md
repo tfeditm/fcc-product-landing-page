@@ -23,7 +23,7 @@ Fulfill the below user stories. Give it your own personal style.
 
 ## Built with:
 
-* Plain CSS (use FlexBox)
+* Plain CSS (FlexBox and Grid)
 * [Google Fonts](https://fonts.google.com/)
 * [Visual Studio Code](https://code.visualstudio.com/)
 

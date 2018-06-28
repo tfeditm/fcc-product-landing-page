@@ -145,7 +145,7 @@ button {
     font-size: 1.3rem;
     text-transform: uppercase;
     line-height: normal;
-    transition: 1s;
+    transition: 0.5s;
 }
 
 .nav-link:hover, .nav-link:focus, .nav-link-active {
