@@ -197,16 +197,15 @@ button {
     z-index: 0;
 }
 
-.form-wrapper:before {
-    content: "";
+.featured-img {
     position: absolute;
     top: 0;
     left: 0;
     right: 0;
     height: 80vh;
     width: 100%;
-    background: url(assets/featured-img.jpg) no-repeat 60% 85%;
-    background-size: cover;
+    object-fit: cover;
+    object-position: 60% 85%;
     filter: hue-rotate(90deg) grayscale(80%) contrast(130%);
     z-index: -1;
 }
